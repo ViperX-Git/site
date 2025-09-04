@@ -21,8 +21,8 @@
     Our style is raw, bold, and untamed — graffiti marks the walls of the underground,
     while neon green cuts through the darkness.
     
-      This is not just a name, it’s an identity:<br>
-      Silent. Deadly. Precise.
-      We are ViperX.
+        This is not just a name, it’s an identity:<br>
+        Silent. Deadly. Precise.
+        We are ViperX.
       
-      viperx.eu@protonmail.com
+        viperx.eu@protonmail.com
