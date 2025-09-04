@@ -14,7 +14,7 @@
       We are ViperX.</em>
     </div>
       <div class="email">viperx.eu@protonmail.com</div>
-                                                                             #    
+  </div></html>                                                                             #    
                 ##                                                         ###    
                ##                                     ########   #        ####    
                ##         #########    #########  #########  ## ####     ###      
